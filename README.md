@@ -1,6 +1,6 @@
 # Walter Jean Pierre Huapaya 👋
 
-Frontend Developer | Angular Specialist
+![Banner](banner.png)
 
 ## About Me
 
