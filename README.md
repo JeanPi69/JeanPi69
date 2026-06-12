@@ -1,6 +1,9 @@
-# Walter Jean Pierre Huapaya 👋
-
 ![Banner](banner.png)
+
+# Hi, I'm Jean Pierre 👋
+
+Frontend Engineer
+Angular • TypeScript • RxJS • Node.js
 
 ## About Me
 
@@ -18,17 +21,22 @@ Angular • TypeScript • RxJS • NgRx • Node.js • NestJS • MySQL
 ### Mini Personal CRM
 Sistema CRM desarrollado con Angular y Node.js.
 
+🔗 [Demo](https://mini-crm.jpierredev.cloud/)
+
+💻 [Código Fuente](https://github.com/JeanPi69/mini-personal-crm)
+
 ### ERP Alta Montaña
 ERP empresarial para gestión de operaciones.
 
 ### Gestores
 Plataforma web de gestión documental y procesos.
 
+
 ## Contact
 
-- LinkedIn
-- Portfolio
-- Email
+- [LinkedIn](https://www.linkedin.com/in/walter-jean-pierre-huapaya-ch%C3%A1vez/)
+- [Portfolio](https://jpierredev.cloud/)
+- [Email](mailto:jeanpierrehuapaya@gmail.com)
 <!--
 **JeanPi69/JeanPi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
