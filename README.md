@@ -14,7 +14,14 @@ Angular • TypeScript • RxJS • Node.js
 
 ## Tech Stack
 
-Angular • TypeScript • RxJS • NgRx • Node.js • NestJS • MySQL
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPi69&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanPi69&show_icons=true)
 
 ## Featured Projects
 
