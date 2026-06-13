@@ -23,6 +23,8 @@ Angular • TypeScript • RxJS • Node.js
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanPi69&show_icons=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=JeanPi69)
+
 ## Featured Projects
 
 ### Mini Personal CRM
